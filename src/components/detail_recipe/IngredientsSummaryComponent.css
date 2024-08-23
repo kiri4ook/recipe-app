@@ -1,0 +1,16 @@
+.ingredients-summary {
+    margin-top: 20px;
+}
+
+.ingredients-summary h2 {
+    margin-bottom: 10px;
+}
+
+.ingredients-summary ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.ingredients-summary li {
+    margin-bottom: 5px;
+}

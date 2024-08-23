@@ -1,0 +1,9 @@
+.selected-recipes{
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.recipe-cards {
+    display: flex;
+    flex-direction: column;
+}
